@@ -1,2 +1,2 @@
 # xmas-lights
-Code to run 3d-christmas lighs supplied by the pi hut
+Code to run 3d-christmas lights supplied by the pi hut
